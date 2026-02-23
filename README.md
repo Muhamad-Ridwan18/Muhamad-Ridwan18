@@ -1,117 +1,149 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7928CA&height=200&section=header&text=Muhamad%20Ridwan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Hey+there%2C+I'm+Ridwan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-7928CA?style=flat-square&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Muhamad-Ridwan18&style=flat-square&color=00D9FF&label=Profile+Views&labelColor=0D1117"/>
+</div>
+
+<br/>
+
+---
+
+## ⚡ About Me
+
+```typescript
+const ridwan = {
+  name:       "Muhamad Ridwan",
+  role:       "Full Stack Developer",
+  location:   "Indonesia 🇮🇩",
+  
+  currentWork: "Building scalable web applications",
+  learning:    ["System Design", "Cloud Architecture", "DevOps"],
+  
+  skills: {
+    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express", "REST APIs"],
+    database:  ["PostgreSQL", "MongoDB", "MySQL"],
+    tools:     ["Git", "Docker", "VS Code", "Linux"],
+  },
+
+  motto: "Ship fast. Learn faster. Build what matters. 🚀",
+};
 ```
-███████╗ ██████╗ ███████╗████████╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-███████╗██║   ██║█████╗     ██║   ██║ █╗ ██║███████║██████╔╝█████╗  
-╚════██║██║   ██║██╔══╝     ██║   ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-███████║╚██████╔╝██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚══════╝ ╚═════╝ ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
 
-### Hi there 👋 I'm **Muhamad Ridwan**
-#### ⚡ Full Stack Developer | Software Engineer | Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+Engineer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-
-</div>
+<br/>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-### 👨‍💻 About Me
-
-- 🔭 Working as a **Software Engineer**, building full-stack applications
-- 🌱 Constantly learning and exploring **new technologies**
-- ⚡ In my free time, I **solve problems** and **read tech articles**
-- 🎯 Focused on writing **clean, scalable, and maintainable** code
-- 💡 Passionate about turning ideas into real-world applications
-- 📫 Reach me at: **[GitHub @Muhamad-Ridwan18](https://github.com/Muhamad-Ridwan18)**
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhamad-Ridwan18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-Ridwan18&layout=compact&theme=tokyonight&hide_border=true"/>
+#### ▸ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma&theme=dark&perline=9" />
+
+#### ▸ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,mongodb,mysql,redis,prisma&theme=dark&perline=9" />
+
+#### ▸ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,nginx&theme=dark&perline=9" />
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhamad-Ridwan18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhamad-Ridwan18&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhamad-Ridwan18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Ridwan18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7928CA&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" />
 </div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-Ridwan18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+</div>
+
+<br/>
 
 ---
 
-### 📈 Contribution Graph
+## 🏆 Trophies
 
 <div align="center">
-
-[![Ridwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhamad-Ridwan18&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhamad-Ridwan18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" />
 </div>
+
+<br/>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhamad-Ridwan18&bg_color=0D1117&color=00D9FF&line=7928CA&point=ffffff&area=true&area_color=7928CA&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## 🎯 2025 Goals
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-ridwan18)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhamad-Ridwan18)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/muhamad.ridwan18)
+| Goal | Status |
+|------|--------|
+| 🏗️ Ship 5+ personal projects | 🔥 In Progress |
+| ☁️ Get a Cloud certification | 📚 Learning |
+| 🌍 Contribute to Open Source | 🔥 In Progress |
+| 📝 Start a dev blog | 🎯 Planned |
+| 🐳 Master Docker & Kubernetes | 📚 Learning |
 
 </div>
+
+<br/>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-ridwan18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhamad-Ridwan18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhamad.ridwan18)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.vercel.app)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhamad-Ridwan18&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* ✨
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
